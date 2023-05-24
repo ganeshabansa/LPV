@@ -1,5 +1,4 @@
-# Semester 8
-SPPU Computer Engineering 2019 Pattern Final Year-Sem 2 Assignments.
+# How to run practicals
 
 ## HPC Practicals
 ### For running openmp programs run commands:- 
@@ -27,9 +26,3 @@ int main(){
 ```
 
 7. Remember to add `%%cu` before writing the C++ code for every CUDA program. CUDA is now set.
-
-[Click here for detailed steps](https://www.geeksforgeeks.org/how-to-run-cuda-c-c-on-jupyter-notebook-in-google-colaboratory/)
-## BI Practicals
-[YouTube Playlist](https://youtube.com/playlist?list=PLf2Wj8X3RbBRy-zlDkrbMPuFbb6peTeTG)
-
-
