@@ -3,6 +3,9 @@
 ## HPC Practicals
 ### For running openmp programs run commands:- 
 `g++ filename.cpp -fopenmp` and `./a.exe` [for windows users] or `./a.out` [for linux users]
+
+>> `g++ -fopenmp filename.cpp -o executable`
+>> `./executable`
  
  [Make sure MinGW is installed with pthreads](https://stackoverflow.com/a/39256203).
  
